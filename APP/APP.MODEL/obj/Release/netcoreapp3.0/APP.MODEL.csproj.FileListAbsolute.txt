@@ -1,0 +1,7 @@
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.MODEL\bin\Release\netcoreapp3.0\APP.MODEL.deps.json
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.MODEL\bin\Release\netcoreapp3.0\APP.MODEL.dll
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.MODEL\bin\Release\netcoreapp3.0\APP.MODEL.pdb
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.MODEL\obj\Release\netcoreapp3.0\APP.MODEL.AssemblyInfoInputs.cache
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.MODEL\obj\Release\netcoreapp3.0\APP.MODEL.AssemblyInfo.cs
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.MODEL\obj\Release\netcoreapp3.0\APP.MODEL.dll
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.MODEL\obj\Release\netcoreapp3.0\APP.MODEL.pdb

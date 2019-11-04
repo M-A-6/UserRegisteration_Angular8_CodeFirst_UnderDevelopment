@@ -1,0 +1,13 @@
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.BUSINESS\bin\Release\netcoreapp3.0\APP.BUSINESS.deps.json
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.BUSINESS\bin\Release\netcoreapp3.0\APP.BUSINESS.dll
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.BUSINESS\bin\Release\netcoreapp3.0\APP.BUSINESS.pdb
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.BUSINESS\bin\Release\netcoreapp3.0\APP.DATA.dll
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.BUSINESS\bin\Release\netcoreapp3.0\APP.MODEL.dll
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.BUSINESS\bin\Release\netcoreapp3.0\APP.DATA.pdb
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.BUSINESS\bin\Release\netcoreapp3.0\APP.MODEL.pdb
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.BUSINESS\obj\Release\netcoreapp3.0\APP.BUSINESS.csprojAssemblyReference.cache
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.BUSINESS\obj\Release\netcoreapp3.0\APP.BUSINESS.AssemblyInfoInputs.cache
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.BUSINESS\obj\Release\netcoreapp3.0\APP.BUSINESS.AssemblyInfo.cs
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.BUSINESS\obj\Release\netcoreapp3.0\APP.BUSINESS.csproj.CopyComplete
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.BUSINESS\obj\Release\netcoreapp3.0\APP.BUSINESS.dll
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.BUSINESS\obj\Release\netcoreapp3.0\APP.BUSINESS.pdb

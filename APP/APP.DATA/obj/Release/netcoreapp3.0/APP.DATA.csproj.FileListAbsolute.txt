@@ -1,0 +1,13 @@
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.DATA\bin\Release\netcoreapp3.0\APP.DATA.deps.json
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.DATA\bin\Release\netcoreapp3.0\APP.DATA.runtimeconfig.json
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.DATA\bin\Release\netcoreapp3.0\APP.DATA.runtimeconfig.dev.json
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.DATA\bin\Release\netcoreapp3.0\APP.DATA.dll
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.DATA\bin\Release\netcoreapp3.0\APP.DATA.pdb
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.DATA\bin\Release\netcoreapp3.0\APP.MODEL.dll
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.DATA\bin\Release\netcoreapp3.0\APP.MODEL.pdb
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.DATA\obj\Release\netcoreapp3.0\APP.DATA.csprojAssemblyReference.cache
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.DATA\obj\Release\netcoreapp3.0\APP.DATA.AssemblyInfoInputs.cache
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.DATA\obj\Release\netcoreapp3.0\APP.DATA.AssemblyInfo.cs
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.DATA\obj\Release\netcoreapp3.0\APP.DATA.csproj.CopyComplete
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.DATA\obj\Release\netcoreapp3.0\APP.DATA.dll
+E:\Projects\DemoProjects\WEBAPI\APPAPI\APP\APP.DATA\obj\Release\netcoreapp3.0\APP.DATA.pdb
